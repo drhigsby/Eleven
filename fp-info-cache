@@ -1,4 +1,4 @@
-16918377873483547
+16919992062992438
 Alps_Only
 ALPS-1.5U
 
@@ -44694,6 +44694,20 @@ single digit 7 segemnt red/green LED
 0
 10
 10
+Eleven
+eleven art 1
+
+
+0
+0
+0
+Eleven
+rosie_eleven
+
+
+0
+0
+0
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -67885,13 +67899,6 @@ Resistor Radial_Power series Radial pin pitch 7.37mm 10W length 16.1mm width 9mm
 0
 2
 2
-Rosies Board
-rosie_eleven
-
-
-0
-0
-0
 Rotary_Encoder
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
