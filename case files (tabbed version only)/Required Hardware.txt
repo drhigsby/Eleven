@@ -2,5 +2,6 @@ Required Hardware to build a Stacked Acrylic Sandwich Case for Eleven (with tabs
 
 8x M3 16mm bolts https://www.mcmaster.com/90353A146/
 8x M3 acorn cap nuts https://www.mcmaster.com/94000A330/
+8x clear round bumpons (to be placed on the underside of the PCB tabs for gasket mounting)
 
 *These parts from McMaster-Carr are compatible, but are not the only hardware that can be used
