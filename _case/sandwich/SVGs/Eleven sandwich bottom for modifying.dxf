@@ -1,0 +1,56 @@
+999
+"DXF R12 Output" (www.mydxf.blogspot.com)
+ 0 
+SECTION
+ 2 
+HEADER
+ 9 
+$ACADVER
+ 1 
+AC1009
+ 9 
+$EXTMIN
+ 10 
+ 0 
+ 20 
+ 0 
+ 9 
+$EXTMAX
+ 10 
+ 8.5 
+ 20 
+ 11 
+ 0 
+ENDSEC
+ 0 
+SECTION
+ 2 
+ENTITIES
+0
+LINE
+8
+Layer 1
+10
+23812.500000
+20
+-899.043000
+11
+23812.500000
+21
+-899.043000
+0
+LINE
+8
+Layer 1
+10
+24606.100000
+20
+-899.043000
+11
+24606.100000
+21
+-899.043000
+ 0 
+ENDSEC
+ 0 
+EOF
