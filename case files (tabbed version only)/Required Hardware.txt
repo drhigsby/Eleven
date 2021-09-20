@@ -6,3 +6,4 @@ Required Hardware to build a Stacked Acrylic Sandwich Case for Eleven (with tabs
 8x clear round bumpons; cut in half (to be placed on the underside of the PCB tabs for gasket mounting)
 
 *These parts from McMaster-Carr are compatible, but are not the only hardware that can be used
+** PM Cover and Feet in stacked case may need to be resized to 288.8mm wide
